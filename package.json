@@ -3,4 +3,7 @@
     "@google/genai": "^1.40.0",
     "express": "^5.2.1"
   }
+  "scripts": {
+  "start": "node app.js"
+}
 }
